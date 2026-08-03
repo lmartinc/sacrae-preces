@@ -5,3 +5,4 @@ A series of Catholic devotional books presenting traditional prayers in Latin an
 "Beauty should serve prayer."
 
 Work in Progress.
+git 
