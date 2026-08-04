@@ -134,10 +134,13 @@ Cormorant Garamond
 | Property | Value |
 |----------|------|
 | Style Type | Paragraph |
-| Based On | SP Prayer English |
-| Font | Garamond Italic |
+| Based On | SP Body Text |
+| Following Style | SP Prayer English |
+| Font | Garamond | Italic
 | Size | 13 pt |
 | Alignment | Center |
+| Left | 0" |
+| Right | 0" |
 | Before | 12 pt |
 | After | 12 pt |
 | Line Spacing | Multiple 1.20 |
