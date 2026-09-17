@@ -4,8 +4,6 @@ The Benedictus
 (Canticle of Zechariah)
 The Benedictus is also known as the Canticle or Song of Zechariah. It is the prayer that Zechariah recited following the birth of John the Baptist. 
 
-Traditionally it is recited as part of Lauds (Morning Prayer).
-
 It celebrates God's faithfulness and the fulfilment of His promises, while looking toward John the Baptist, who will prepare the way for the Messiah.  
 
 Traditionally, the Benedictus is prayed as part of Lauds (Morning Prayer) in the Liturgy of the Hours. 

@@ -30,7 +30,7 @@ Fiat voluntas tua, sicut in caelo et in terra.
 Panem nostrum quotidianum do nobis hodie,
 Et dimitte nobis debita nostra,
 Sicut et nos dimittimus debitoribus nostris.
-Et ne nos inducasin tentationem
+Et ne nos inducas in tentationem
 Sed libera nos a malo
 Amen.
  
