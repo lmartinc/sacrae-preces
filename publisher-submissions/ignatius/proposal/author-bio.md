@@ -1,0 +1,7 @@
+Lance Martincich is a Catholic author with a particular interest in Scripture, Catholic prayer, and the rich devotional tradition of the Church. His faith and theological studies have led him to explore the ways in which Scripture, prayer, and the life of the Church are woven together in the ordinary life of a Christian.
+
+His interest in traditional Catholic prayer, particularly the relationship between familiar prayers and their biblical foundations, became the inspiration for Sacrae Preces. The project grew from a desire to rediscover the depth contained within prayers that Catholics have prayed for generations, while making that richness accessible to those seeking to deepen their own prayer life.
+
+Lance is currently engaged in theological study and has a particular interest in Scripture, the Catholic understanding of prayer, the saints, and the traditions that have shaped Christian devotion throughout the centuries. His approach to devotional writing seeks to remain faithful to the Catholic tradition while encouraging readers to encounter prayer personally rather than simply recite words.
+
+Sacrae Preces — Volume I: Daily Catholic Prayers is the first volume in a planned series exploring different dimensions of Catholic prayer and devotion.
